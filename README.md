@@ -1,6 +1,6 @@
 # stenography
 
-copy all .PNG images of directory to Download folder 
+copy all .PNG images of directory to Downloads folder  example::::<>(C:\Users\harve\Downloads)
 
 REQUIREMENT=
 
